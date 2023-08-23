@@ -1,0 +1,14 @@
+._main_header h1{ 
+
+    text-align: center;
+
+}
+._article_header h3{
+    text-align: center;
+}
+._article_body {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+
